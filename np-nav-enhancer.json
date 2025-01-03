@@ -1,0 +1,7 @@
+{
+  "links": [
+    "<a href='/market.phtml?type=till'><li><div style='background-image: url(https://images.neopets.com/quests/categories/Purchase.png); height: 100%; background-size: 100% auto;'></div><h4>Shop Till</h4></li></a>",
+    "<a href='/safetydeposit.phtml'><li><div style='background-image: url(https://images.neopets.com/themes/h5/altadorcup/images/safetydeposit-icon.png); height: 100%; background-size: 100% auto;'></div><h4>SDB</h4></li></a>",
+    "<a href='/inventory.phtml'><li><div style='background-image: url(https://images.neopets.com/themes/h5/common/inventory/images/inventory-chest.png); height: 100%; background-size: 100% auto;'></div><h4>Inventory</h4></li></a>"
+  ]
+}
