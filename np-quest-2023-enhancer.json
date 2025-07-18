@@ -38,7 +38,7 @@
     },
     {
       "pattern": "Purchase item(s) from any Neopian Shops",
-      "replace": "Purchase item(s) from any Neopian Shops: <a href='https://www.neopets.com/objects.phtml?type=shop&amp;obj_type=3'>Toy Shop</a>, <a href='https://www.neopets.com/objects.phtml?type=shop&amp;obj_type=47'>Pizzaroo</a>, <a href='https://www.neopets.com/faerieland/springs.phtml'>Healing Springs</a>"
+      "replace": "Purchase item(s) from any Neopian Shops: <a href='https://www.neopets.com/generalstore.phtml'>General Store</a>, <a href='https://www.neopets.com/objects.phtml?type=shop&amp;obj_type=3'>Toy Shop</a>, <a href='https://www.neopets.com/objects.phtml?type=shop&amp;obj_type=47'>Pizzaroo</a>, <a href='https://www.neopets.com/faerieland/springs.phtml'>Healing Springs</a>"
     }
   ]
 }
