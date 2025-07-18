@@ -18,7 +18,7 @@
     },
     {
       "pattern": "Neopian Shop",
-      "replace": "Neopian Shops: <a href='https://www.neopets.com/objects.phtml?type=shop&obj_type=3'>Toy Shop</a>, <a href='https://www.neopets.com/objects.phtml?type=shop&obj_type=47'>Pizzaroo</a>, <a href='https://www.neopets.com/faerieland/springs.phtml'>Healing Springs</a>"
+      "replace": "Neopian Shops: <a href='https://www.neopets.com/generalstore.phtml'>General Store</a>, <a href='https://www.neopets.com/objects.phtml?type=shop&obj_type=3'>Toy Shop</a>, <a href='https://www.neopets.com/objects.phtml?type=shop&obj_type=47'>Pizzaroo</a>, <a href='https://www.neopets.com/faerieland/springs.phtml'>Healing Springs</a>"
     },
     {
       "pattern": "Game or Classic Game",
